@@ -1,0 +1,11 @@
+# Netlify CLI state
+.netlify/
+
+# Local environment variables
+.env
+.env.*
+!.env.example
+
+# OS files
+.DS_Store
+Thumbs.db
